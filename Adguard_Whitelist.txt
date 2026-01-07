@@ -3,7 +3,7 @@
 ! Title: Adguard Whitelist by cedwards4038
 ! Description: AdGuard Whitelist 
 
-
+!Own Services
 @@||paypal.com^$important
 @@||aax-eu.amazon.de^$important
 @@||app.news.ledger.com^$important
