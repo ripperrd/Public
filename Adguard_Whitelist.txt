@@ -1,10 +1,31 @@
 ! Source name: AdGuard Whitelist
 ! Source: https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212
 ! Title: Adguard Whitelist by cedwards4038
-! Description: AdGuard Whitelist derived from pihole commonly whitelisted domains(https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212)
-! Homepage: https://github.com/cedwards4038/adguard-whitelist
+! Description: AdGuard Whitelist 
 
-!Compiled By Charles Edwards
+
+@@||paypal.com^$important
+@@||aax-eu.amazon.de^$important
+@@||app.news.ledger.com^$important
+@@||fls-eu.amazon.de^$important
+@@||aax-events-dedicated.eu-west.ono.axp.amazon-adsystem.com^$important
+@@||stats.grafana.org^$important
+@@||minerva.devices.a2z.com^$important
+@@||glkvm.top^$important
+@@||dit.whatsapp.net^$important
+@@||onthatass.com^$important
+@@||tabula-rasa.pw^$important
+@@||aiv-delivery.net^$important
+@@||aiv-cdni.net^$important
+@@||video.a2z.com^$important
+@@||ce.baur.de^$important
+@@||em.baur.de^$important
+@@||gb.lgtvsdp.com^ important
+@@||de.lgtvsdp.com^ important
+@@||*.lgtvsdp.com^ important
+@@||eic.lgchhomeapp.lgtvcommon.com^$important
+@@||api.eu-west-1.aiv-delivery.net^$important
+@@||eic.cdplauncher.lgtvcommon.com^$important
 
 !Google (Maps, Youtube, etc)
 
