@@ -27,6 +27,9 @@
 @@||eic.lgchhomeapp.lgtvcommon.com^$important
 @@||api.eu-west-1.aiv-delivery.net^$important
 @@||eic.cdplauncher.lgtvcommon.com^$important
+@@||catalog.gamepass.com^$important
+@@||go.microsoft.com^$important
+@@||dmd.metaservices.microsoft.com^$important
 
 !Google (Maps, Youtube, etc)
 
