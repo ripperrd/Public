@@ -30,6 +30,9 @@
 @@||catalog.gamepass.com^$important
 @@||go.microsoft.com^$important
 @@||dmd.metaservices.microsoft.com^$important
+@@||api.kleinanzeigen.de^$important
+@@||gateway.kleinanzeigen.de^$important
+@@||img.kleinanzeigen.de^$important
 
 !Google (Maps, Youtube, etc)
 
